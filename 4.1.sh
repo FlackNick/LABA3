@@ -1,3 +1,4 @@
+#!/bin/bash
 function DO(){
     ./4.0.sh & PID1=$!
     ./4.0.sh & PID2=$!

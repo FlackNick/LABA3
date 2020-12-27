@@ -1,3 +1,4 @@
+#!/bin/bash
 first=3
 second=7
 for ((;;))

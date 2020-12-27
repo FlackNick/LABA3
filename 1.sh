@@ -1,3 +1,4 @@
+#!/bin/bash
 function DO(){
     touch test
     if [ -f test ]
