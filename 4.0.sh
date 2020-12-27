@@ -1,8 +1,6 @@
-function DO{
-    for ((;;))
-    do
-        expr 666 */ 999
-    done
-}
-
-DO
+first=3
+second=7
+for ((;;))
+do
+   let "first = $second * $first"
+done
